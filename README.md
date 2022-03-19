@@ -1,4 +1,4 @@
-# hello-world
+# git checkout study
 selfteaching
 
 record of studing python

@@ -47,6 +47,14 @@ Well
 
 ord() & chr()
 
+input() 这个内建函数的功能是接收用户的键盘输入，而后将其作为 字符串 返回。
+
+in:
+    print('\'')
+out:
+    '
+
+\t = tab ; \n = enter
 
 
 

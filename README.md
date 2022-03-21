@@ -44,8 +44,22 @@ Well
 （1）关键字参数:sorted()
 （2）位置参数：dimod()
 （3）可选位置参数:pow()
-        
 
+ord() & chr()
 
+input() 这个内建函数的功能是接收用户的键盘输入，而后将其作为 字符串 返回。
 
+in:
+    print('\'')
+out:
+    '
 
+\t = tab ; \n = enter
+
+与大量 “前置引用” 相伴随的是知识点的重复出现。
+
+3.21
+
+<img width="809" alt="2a62035bf8f8acd2924fbf70522d2b2" src="https://user-images.githubusercontent.com/97277390/159297335-804e50f1-ca50-42cc-8218-c7d807894a13.png">
+
+<img width="256" alt="a7d69fb26a00838e3eb3014d787b9e8" src="https://user-images.githubusercontent.com/97277390/159297397-f6a33c56-7c25-4721-ac17-50e40fa44c79.png">

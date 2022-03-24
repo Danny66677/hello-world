@@ -67,3 +67,9 @@ out:
 <img width="633" alt="e1cd541b200198d13f8e4d37f70f580" src="https://user-images.githubusercontent.com/97277390/159910954-961b8dc5-d668-4648-9a93-bae94bb39ac0.png">
 
 666
+
+3.24
+
+数据容器参考链接：
+https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+https://docs.python.org/3/library/stdtypes.html#typesmapping
